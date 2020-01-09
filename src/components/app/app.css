@@ -1,0 +1,16 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    border: solid 1px #ccc;
+    border-radius: 8px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.status {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
